@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Developer Maciektv1","dc.gg/gcode"];
 
 
 let currentIndex = 0;
